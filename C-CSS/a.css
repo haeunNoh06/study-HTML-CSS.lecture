@@ -1,0 +1,40 @@
+/* 
+대상 선택
+selector {
+    속성과 값
+    attribute: value;
+*/
+body {
+    font-family: 'NanumGothic';
+}
+
+/* 클래스 선택
+.class-name {
+
+}
+*/
+.male {
+    color: #007bff;
+}
+
+.female {
+    color: #e43681;
+}
+
+/* 태그 선택
+tag {
+
+}
+*/
+ul {
+    list-style: none;
+}
+
+/* 아이디 선택
+#id-name {
+
+}
+*/
+#ceo {
+    background-color: #dfe0e1;
+}
