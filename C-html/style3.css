@@ -1,7 +1,7 @@
 h1 {
-    font-size: 50px;
-    margin-left: 100px;
-    margin-top: 90px;
+    font-size: 80px;
+    margin-left: 180px;
+    margin-top: 200px;
     margin-bottom: 20px;
 }
 
@@ -30,10 +30,10 @@ h1 span:nth-child(6) {
 }
 
 input {
-    margin-left: 10px;
-    padding: 4px;
+    margin-left: 145px;
+    padding: 5px;
     border: 1px solid lightgray;
-    border-radius: 15px;
+    border-radius: 8px;
     width: 320px;
 }
 
@@ -42,7 +42,6 @@ input {
 }
 
 .bottom button {
-    font-size: 10px;
     padding: 5px;
     border: 1px solid lightgray;
     border-radius: 5px;/*둥글둥글*/
@@ -50,5 +49,5 @@ input {
 
 /* 첫 번째 버튼 */
 .bottom button:nth-child(1) {
-    margin-left: 100px;
+    margin-left: 210px;
 }
